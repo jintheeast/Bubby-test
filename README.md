@@ -1,2 +1,2 @@
-# Bubby-test
+# Coding-test
 Coding test repository
